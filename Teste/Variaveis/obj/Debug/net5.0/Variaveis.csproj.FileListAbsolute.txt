@@ -1,0 +1,16 @@
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\Variaveis.exe
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\Variaveis.deps.json
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.json
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.dev.json
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\Variaveis.dll
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\ref\Variaveis.dll
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\bin\Debug\net5.0\Variaveis.pdb
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.csprojAssemblyReference.cache
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfo.cs
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.dll
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\ref\Variaveis.dll
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.pdb
+C:\Users\TI\Documents\Projetos\Teste\Variaveis\obj\Debug\net5.0\Variaveis.genruntimeconfig.cache
